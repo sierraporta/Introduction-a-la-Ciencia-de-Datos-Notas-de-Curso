@@ -1,2 +1,2 @@
-# Introduction-a-la-Ciencia-de-Datos-Notas-de-Curso
+# Introduction a la Ciencia de Datos Notas de Curso
 Acá algunos materiales que usamos en el curso de Introduction a la Ciencia de Datos...
