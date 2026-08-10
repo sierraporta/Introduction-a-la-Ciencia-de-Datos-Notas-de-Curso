@@ -1,0 +1,13 @@
+city,pm25,temperature_c,population,green_area_pct
+Bogotá,18.4,14.2,7800000,4.8
+Medellín,15.2,22.1,2500000,5.7
+Cali,16.3,24.7,2300000,6.1
+Barranquilla,12.7,29.1,1300000,7.4
+Cartagena,11.8,28.5,1100000,7.9
+Bucaramanga,14.9,23.4,600000,6.4
+Pereira,13.6,21.2,480000,6.8
+Manizales,12.9,17.5,450000,7.2
+Santa Marta,10.9,28.7,550000,8.1
+Ibagué,14.1,22.8,550000,6.6
+Villavicencio,12.3,26.1,560000,7.5
+Pasto,9.8,13.5,390000,8.0
